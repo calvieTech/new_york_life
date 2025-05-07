@@ -1,0 +1,17 @@
+.services--container {
+  width: 100vw;
+  height: 420px;
+  background-color: white;
+  /* background-color: purple; */
+}
+
+.services--group {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.services--container > h1 {
+  padding: 20px;
+}

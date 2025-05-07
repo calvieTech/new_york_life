@@ -1,0 +1,17 @@
+.service--container {
+  width: 280px;
+  height: 240px;
+  background-color: blue;
+  margin: 40px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  text-align: center;
+  background-color: #f5f7f8;
+  padding: 8px;
+}
+
+.service--container > h4 {
+  padding: 8px;
+}
