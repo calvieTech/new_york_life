@@ -1,10 +1,10 @@
 .header--container {
   display: flex;
   justify-content: space-around;
-  background-color: transparent;
   align-items: center;
   height: 90px;
   color: #0079c2;
+  background-color: #f5f7f8;
   width: 100vw;
 }
 
@@ -30,6 +30,7 @@
   list-style-type: none;
   padding: 0px;
   margin: 0px;
+  font-size: large;
 }
 
 .header--nav--list > li {

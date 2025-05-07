@@ -46,12 +46,12 @@
 .banner--left > h1 {
   padding: 20px;
   font-size: 56px;
-  color: black;
+  color: #0079c2;
 }
 
 .banner--left > h4 {
   padding: 20px;
-  color: black;
+  color: rgb(60, 60, 60);
 }
 
 .banner--right {

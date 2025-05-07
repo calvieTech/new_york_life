@@ -1,15 +1,21 @@
 .service--container {
   width: 280px;
-  height: 240px;
-  background-color: blue;
+  height: 280px;
+  background-color: #0079c2;
   margin: 40px;
   display: flex;
   flex-direction: column;
   /* justify-content: center; */
   align-items: center;
   text-align: center;
-  background-color: #f5f7f8;
-  padding: 8px;
+  /* background-color: #f5f7f8; */
+  padding: 30px;
+  color: white;
+  border-radius: 50%;
+}
+
+.service--container > i {
+  padding: 20px;
 }
 
 .service--container > h4 {

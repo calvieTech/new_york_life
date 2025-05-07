@@ -1,0 +1,8 @@
+.map--container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: center;
+  width: 480px;
+  padding: 18px;
+}

@@ -1,4 +1,20 @@
 .testimonials--container {
-  height: 420px;
+  height: 480px;
   width: 100vw;
+  padding: 20px;
+  display: flex;
+}
+
+.testimonials--reviews {
+  max-width: 40%;
+  height: 100%;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.testimonials--reviews > h2 {
+  display: block;
+  padding: 12px;
 }

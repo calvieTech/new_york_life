@@ -1,8 +1,8 @@
 .services--container {
   width: 100vw;
-  height: 420px;
+  height: 580px;
   background-color: white;
-  /* background-color: purple; */
+  padding: 40px;
 }
 
 .services--group {
@@ -13,5 +13,6 @@
 }
 
 .services--container > h1 {
+  text-align: center;
   padding: 20px;
 }
