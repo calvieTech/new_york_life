@@ -6,7 +6,7 @@ function Contact() {
     <div className="contact--container">
       <h2>Contact</h2>
       <form action="" className="contact--form">
-        <input type="name" placeholder="Name" />
+        <input type="text" placeholder="Name" />
         <input type="email" placeholder="Email" />
         <input type="tel" placeholder="Phone Number" />
         <input

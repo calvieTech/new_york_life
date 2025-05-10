@@ -11,11 +11,12 @@ function ContactMap() {
         <Map
           // style={{ width: '100vw', height: '100vh' }}
           defaultCenter={{ lat: 40.7127, lng: -74.013382 }}
-          defaultZoom={14}
+          defaultZoom={18}
           gestureHandling={'greedy'}
           disableDefaultUI={true}
         />
       </APIProvider>
+      <button className="map--submit--call">Book a free call</button>
     </div>
   );
 }

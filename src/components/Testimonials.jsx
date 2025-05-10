@@ -2,7 +2,7 @@ import React from 'react';
 import './testimonials.css';
 import Testimony from './Testimony';
 import Contact from './Contact';
-import Map from './ContactMap';
+import ContactMap from './ContactMap';
 
 const groupTestimony = [
   {
@@ -40,7 +40,7 @@ function Testimonials() {
         <Contact />
       </div>
       <div className="testimonials--map">
-        <Map />
+        <ContactMap />
       </div>
     </div>
   );

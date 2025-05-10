@@ -4,7 +4,7 @@ import About from '../components/About';
 import Services from '../components/Services';
 import Testimonials from '../components/Testimonials';
 
-function Home() {
+function HomePage() {
   return (
     <div>
       <Hero />
@@ -15,4 +15,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default HomePage;

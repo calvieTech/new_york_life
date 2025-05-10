@@ -39,6 +39,11 @@
   margin-right: 10px;
 }
 
+.header--nav--list > li > .header--nav--link {
+  list-style-type: none;
+  text-decoration: none;
+}
+
 .header--nav--list > li:hover {
   color: black;
   cursor: pointer;

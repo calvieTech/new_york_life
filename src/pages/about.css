@@ -1,0 +1,25 @@
+.aboutpage--container {
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+  height: calc(1200px - 180px);
+  width: 100%;
+  background-color: bisque;
+  padding: 24px;
+}
+
+.aboutpage--header {
+  text-align: center;
+  padding: 24px;
+}
+
+.aboutpage--container > h1 {
+  text-align: center;
+  padding: 20px;
+}
+
+.aboutpage--img {
+  height: 300px;
+  width: 300px;
+}
